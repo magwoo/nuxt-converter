@@ -5,8 +5,6 @@ Small project to convert different values as example for teach my friend
 # Project prepare
 ```sh
 npm install
-```
-```sh
 npm run prepare
 ```
 
